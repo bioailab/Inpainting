@@ -47,3 +47,5 @@ The following results were obtained
 ![image](https://user-images.githubusercontent.com/88557062/231527701-2a2c6d13-8382-4c57-9ab2-bcee96e79e2f.png)
 
 Five popular learning-based methods were employed to fill the missing pixels in the SAM images, namely AOT GAN, DeepFill v2, Edge-Connect, DMFN, and Hypergraphs. The idea of comparing the inpainting method to a super-resolution problem rests on the fact that both can be interpreted in different ways by diverse people.
+
+See the author's git repository here: https://github.com/banerjeepragyan/Inpainting

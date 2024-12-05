@@ -1,4 +1,4 @@
-### See the author [Ayush's](http://www.ayushsomani.com/) git repository here: https://github.com/banerjeepragyan/Inpainting
+### See [the author's](http://www.ayushsomani.com/) git repository here: https://github.com/banerjeepragyan/Inpainting
 
 # Hypergraphs Image Inpainting in Scanning Acoustic Microscopy for Super-Resolution
 

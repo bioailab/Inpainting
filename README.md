@@ -1,3 +1,5 @@
+### See the author [Ayush's](http://www.ayushsomani.com/) git repository here: https://github.com/banerjeepragyan/Inpainting
+
 # Hypergraphs Image Inpainting in Scanning Acoustic Microscopy for Super-Resolution
 
 This repo contains the code of all the models. The codes are basically cloned from other github repositories and changes were made either in the code or in the training data to incorporate our masking method.
@@ -47,5 +49,3 @@ The following results were obtained
 ![image](https://user-images.githubusercontent.com/88557062/231527701-2a2c6d13-8382-4c57-9ab2-bcee96e79e2f.png)
 
 Five popular learning-based methods were employed to fill the missing pixels in the SAM images, namely AOT GAN, DeepFill v2, Edge-Connect, DMFN, and Hypergraphs. The idea of comparing the inpainting method to a super-resolution problem rests on the fact that both can be interpreted in different ways by diverse people.
-
-### See the author [Ayush's](http://www.ayushsomani.com/) git repository here: https://github.com/banerjeepragyan/Inpainting
